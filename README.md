@@ -1,5 +1,5 @@
 # mpe-revived
-MPE 1.1.1
+MPE 1.1.2
 
 Hey guys, thanks for downloading Exo and my's mod. Credit goes to Exo for the main concept and all maps, except for Quazen, created by me. Also credit to Gregrox for his help with being a veteran planet modder, CaptRobau and Poodmund for creating and maintaining the original Outer Planets Mod that this was meant to complement, and the rest of Greg's Lab for helping with bugs and other fixes along the journey. I hope you enjoy this mod, and rest assured updates will be coming sometime soon.
 
@@ -15,7 +15,7 @@ Crokslev - Chariklo/Chiron analog
 Havous - Haumea analog
 	Kal - close-in ringlet moon
 	Ki'Ki - contact binary, inspired by Kleopatra
-Mracksis - Makemake analog
+Mracksis - Makemake/Quaoar analog
 	Flake - acknowledgement of MK2
 Ervo - Eris analog
 	Archae - Dysnomia analog
