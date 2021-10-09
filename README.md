@@ -4,7 +4,7 @@ Hey guys, thanks for downloading Exo and my's mod. Credit goes to Exo for the ma
 
 Bodies included in this mod:
 
-Doppler - Didymos/Apophis/Bennu analogue (Dyva - Dimorphos/Itokawa analogue)
+Doppler - Didymos/Apophis/Bennu analogue	(Dyva - Dimorphos/Itokawa analogue)
 
 Edas - Eros analogue
 
@@ -20,13 +20,13 @@ Quazen - Pallas analog
 
 Crokslev - Chariklo/Chiron analog
 
-Havous (HAY-vus, HAH-vus) - Haumea analog (Kal - close-in ringlet moon, Ki'Ki - contact binary, inspired by Kleopatra)
+Havous (HAY-vus, HAH-vus) - Haumea analog	(Kal - close-in ringlet moon,	Ki'Ki - contact binary, inspired by Kleopatra)
 
-Mracksis (MRAK-sis) - Makemake/Quaoar/Gonggong/Standard Average KBO analog (Flake - acknowledgement of MK2)
+Mracksis (MRAK-sis) - Makemake/Quaoar analog	(Flake - acknowledgement of MK2)
 
-Ervo - Eris analog (Archae - Dysnomia analog)
+Ervo - Eris analog 				(Archae - Dysnomia analog)
 
-Soden - Sedna analog (Lon - no real-world analog)
+Soden - Sedna analog 				(Lon - no real-world analog)
 
 Installation: Extract GameData folder to Kerbal Space Program folder. Ensure to delete previous versions of MPE.
 
