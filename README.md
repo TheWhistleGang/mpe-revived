@@ -1,12 +1,12 @@
-MPE 1.3.0
+MPE 1.3.2
 
 Hey guys, thanks for downloading Exo and my's mod. Credit goes to Exo for the main concept and original maps, except for Quazen, Doppler, and Dyva, created fully by Interplanet Janet, and Euribanne, Eurbon, Palloocus, and Palloomus, conceived by Exo. Also credit to Gregrox for his help with being a veteran planet modder, CaptRobau for the original Outer Planets Mod that this was meant to complement, and the rest of Greg's Lab for helping with bugs and other fixes along the journey. I hope you enjoy this mod, and rest assured updates will be coming sometime soon.
 
 Bodies included in this mod:
 
-Doppler - Didymos/Apophis/Bennu analogue	(Dyva - Dimorphos/Itokawa analogue)
+99942 Doppler - Bennu analogue		(Dyva - Dimorphos analogue)
 
-Edas - Eros analogue
+433 Edas - Eros analogue
 
 Vant - Vesta analog
 
@@ -16,7 +16,7 @@ Quazen - Pallas analog
 
 68P/Lint-Mikey - 67P analog
 
-Euribanne - Eurybates/Leucus/Orus analog	(Eurbon - Queta analog)
+Euribanne - Eurybates/Leucus analog	(Eurbon - Queta analog)
 
 Palloocus - Patroclus analog / Palloomus - Menoetius analog
 
